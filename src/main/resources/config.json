@@ -1,0 +1,6 @@
+{
+  "mongo.primary.username" : "root",
+  "mongo.primary.password" : "root",
+  "mongo.primary.database" : "Employee",
+  "mongo.primary.hostsAndPorts" : "0.0.0.0:30001"
+}
